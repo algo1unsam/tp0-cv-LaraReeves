@@ -1,8 +1,7 @@
 # TP0-CV
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-image-url.com" ![Uploading 20240228_122909_HDR.jpg…]()
-alt="Banner" width="100%" />
+  <img ![Uploading 20240228_122909_HDR.jpg…]() alt="Banner" width="100%" />
 </p>
 
 <!-- Título -->
