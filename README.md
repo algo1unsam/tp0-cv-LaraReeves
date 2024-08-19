@@ -1,9 +1,5 @@
 # TP0-CV
-<!-- Banner -->
-<p align="center">
   <img src= "![20240228_122909_HDR](https://github.com/user-attachments/assets/3144df2d-3584-4ec8-ae7e-c2c3a147b007)" />
-</p>
-
 <!-- Título -->
 <h1 align="center">Hola 👋, soy Reeves Lara Agustina</h1>
 <h3 align="center">Analista en D&A y futura técnica en programación 💻</h3>
