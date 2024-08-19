@@ -1,5 +1,5 @@
 # TP0-CV
-  <img src= "![20240228_122909_HDR](https://github.com/user-attachments/assets/3144df2d-3584-4ec8-ae7e-c2c3a147b007)" />
+<!-- Título -->
 <!-- Título -->
 <h1 align="center">Hola 👋, soy Reeves Lara Agustina</h1>
 <h3 align="center">Analista en D&A y futura técnica en programación 💻</h3>
@@ -28,3 +28,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
 </p>
 
+<!-- Videojuegos favoritos -->
+<h2 align="center">🎮 Videojuegos Favoritos</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white" alt="Minecraft" />
+  <img src="https://img.shields.io/badge/Genshin%20Impact-FFD700?style=flat-square&logo=genshin-impact&logoColor=black" alt="Genshin Impact" />
+</p>
